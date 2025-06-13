@@ -1,0 +1,15 @@
+D:\ProjectC#\Quiz\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\ProjectC#\Quiz\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectC#\Quiz\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\ProjectC#\Quiz\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\ProjectC#\Quiz\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\ProjectC#\Quiz\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\ProjectC#\Quiz\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\ProjectC#\Quiz\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\ProjectC#\Quiz\DataAccess\bin\Debug\net8.0\BusinessObjects.dll
+D:\ProjectC#\Quiz\DataAccess\bin\Debug\net8.0\BusinessObjects.pdb
+D:\ProjectC#\Quiz\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+D:\ProjectC#\Quiz\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\ProjectC#\Quiz\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\ProjectC#\Quiz\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\ProjectC#\Quiz\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

@@ -1,0 +1,14 @@
+D:\ProjectC#\Quiz\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\ProjectC#\Quiz\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+D:\ProjectC#\Quiz\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\ProjectC#\Quiz\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\ProjectC#\Quiz\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\ProjectC#\Quiz\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectC#\Quiz\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\ProjectC#\Quiz\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\ProjectC#\Quiz\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\ProjectC#\Quiz\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\ProjectC#\Quiz\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\ProjectC#\Quiz\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\ProjectC#\Quiz\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
+D:\ProjectC#\Quiz\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll

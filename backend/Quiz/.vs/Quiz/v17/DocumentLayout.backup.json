@@ -1,0 +1,388 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjectC#\\Quiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{049ED222-1EC2-4FBE-9346-EF8FA38A30A3}|Quiz\\Quiz.csproj|d:\\projectc#\\quiz\\quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049ED222-1EC2-4FBE-9346-EF8FA38A30A3}|Quiz\\Quiz.csproj|solutionrelative:quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA46E20-5D6B-479F-B5A0-D633F8093C46}|DataAccess\\DataAccess.csproj|d:\\projectc#\\quiz\\dataaccess\\questiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA46E20-5D6B-479F-B5A0-D633F8093C46}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\questiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|d:\\projectc#\\quiz\\businessobjects\\dto\\optiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\dto\\optiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|d:\\projectc#\\quiz\\businessobjects\\dto\\submit\\quizresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\dto\\submit\\quizresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|d:\\projectc#\\quiz\\businessobjects\\dto\\validatequestion\\submitanswerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\dto\\validatequestion\\submitanswerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|d:\\projectc#\\quiz\\businessobjects\\dto\\validatequestion\\answerfeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\dto\\validatequestion\\answerfeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|d:\\projectc#\\quiz\\businessobjects\\dto\\submit\\quizsubmitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\dto\\submit\\quizsubmitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049ED222-1EC2-4FBE-9346-EF8FA38A30A3}|Quiz\\Quiz.csproj|d:\\projectc#\\quiz\\quiz\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049ED222-1EC2-4FBE-9346-EF8FA38A30A3}|Quiz\\Quiz.csproj|solutionrelative:quiz\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|d:\\projectc#\\quiz\\businessobjects\\quizdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\quizdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9390BD81-1800-48F9-B4BD-656D03D1BC77}|Repositories\\Repositories.csproj|d:\\projectc#\\quiz\\repositories\\iquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9390BD81-1800-48F9-B4BD-656D03D1BC77}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|d:\\projectc#\\quiz\\businessobjects\\dto\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\dto\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|d:\\projectc#\\quiz\\businessobjects\\quizresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\quizresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|d:\\projectc#\\quiz\\businessobjects\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|d:\\projectc#\\quiz\\businessobjects\\dto\\review\\reviewanswerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\dto\\review\\reviewanswerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9390BD81-1800-48F9-B4BD-656D03D1BC77}|Repositories\\Repositories.csproj|d:\\projectc#\\quiz\\repositories\\questionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9390BD81-1800-48F9-B4BD-656D03D1BC77}|Repositories\\Repositories.csproj|solutionrelative:repositories\\questionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|d:\\projectc#\\quiz\\businessobjects\\quizanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\quizanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|d:\\projectc#\\quiz\\businessobjects\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049ED222-1EC2-4FBE-9346-EF8FA38A30A3}|Quiz\\Quiz.csproj|d:\\projectc#\\quiz\\quiz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{049ED222-1EC2-4FBE-9346-EF8FA38A30A3}|Quiz\\Quiz.csproj|solutionrelative:quiz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|d:\\projectc#\\quiz\\businessobjects\\migrations\\20250611150111_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\migrations\\20250611150111_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|d:\\projectc#\\quiz\\businessobjects\\migrations\\quizdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\migrations\\quizdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049ED222-1EC2-4FBE-9346-EF8FA38A30A3}|Quiz\\Quiz.csproj|d:\\projectc#\\quiz\\quiz\\quiz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{049ED222-1EC2-4FBE-9346-EF8FA38A30A3}|Quiz\\Quiz.csproj|solutionrelative:quiz\\quiz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|d:\\projectc#\\quiz\\businessobjects\\businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6FAC93AF-8651-4DAD-A19E-D08397E5DF2C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReviewAnswerDTO.cs",
+              "DocumentMoniker": "D:\\ProjectC#\\Quiz\\BusinessObjects\\DTO\\Review\\ReviewAnswerDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\DTO\\Review\\ReviewAnswerDTO.cs",
+              "ToolTip": "D:\\ProjectC#\\Quiz\\BusinessObjects\\DTO\\Review\\ReviewAnswerDTO.cs",
+              "RelativeToolTip": "BusinessObjects\\DTO\\Review\\ReviewAnswerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:11:28.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuizSubmitDTO.cs",
+              "DocumentMoniker": "D:\\ProjectC#\\Quiz\\BusinessObjects\\DTO\\Submit\\QuizSubmitDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\DTO\\Submit\\QuizSubmitDTO.cs",
+              "ToolTip": "D:\\ProjectC#\\Quiz\\BusinessObjects\\DTO\\Submit\\QuizSubmitDTO.cs",
+              "RelativeToolTip": "BusinessObjects\\DTO\\Submit\\QuizSubmitDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T04:38:02.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuizResult.cs",
+              "DocumentMoniker": "D:\\ProjectC#\\Quiz\\BusinessObjects\\QuizResult.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\QuizResult.cs",
+              "ToolTip": "D:\\ProjectC#\\Quiz\\BusinessObjects\\QuizResult.cs",
+              "RelativeToolTip": "BusinessObjects\\QuizResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T04:19:23.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnswerFeedbackDTO.cs",
+              "DocumentMoniker": "D:\\ProjectC#\\Quiz\\BusinessObjects\\DTO\\ValidateQuestion\\AnswerFeedbackDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\DTO\\ValidateQuestion\\AnswerFeedbackDTO.cs",
+              "ToolTip": "D:\\ProjectC#\\Quiz\\BusinessObjects\\DTO\\ValidateQuestion\\AnswerFeedbackDTO.cs",
+              "RelativeToolTip": "BusinessObjects\\DTO\\ValidateQuestion\\AnswerFeedbackDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:22:02.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuizResultDTO.cs",
+              "DocumentMoniker": "D:\\ProjectC#\\Quiz\\BusinessObjects\\DTO\\Submit\\QuizResultDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\DTO\\Submit\\QuizResultDTO.cs",
+              "ToolTip": "D:\\ProjectC#\\Quiz\\BusinessObjects\\DTO\\Submit\\QuizResultDTO.cs",
+              "RelativeToolTip": "BusinessObjects\\DTO\\Submit\\QuizResultDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:39:31.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubmitAnswerDTO.cs",
+              "DocumentMoniker": "D:\\ProjectC#\\Quiz\\BusinessObjects\\DTO\\ValidateQuestion\\SubmitAnswerDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\DTO\\ValidateQuestion\\SubmitAnswerDTO.cs",
+              "ToolTip": "D:\\ProjectC#\\Quiz\\BusinessObjects\\DTO\\ValidateQuestion\\SubmitAnswerDTO.cs",
+              "RelativeToolTip": "BusinessObjects\\DTO\\ValidateQuestion\\SubmitAnswerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:39:07.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuestionDTO.cs",
+              "DocumentMoniker": "D:\\ProjectC#\\Quiz\\BusinessObjects\\DTO\\QuestionDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\DTO\\QuestionDTO.cs",
+              "ToolTip": "D:\\ProjectC#\\Quiz\\BusinessObjects\\DTO\\QuestionDTO.cs",
+              "RelativeToolTip": "BusinessObjects\\DTO\\QuestionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:00:44.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OptionDTO.cs",
+              "DocumentMoniker": "D:\\ProjectC#\\Quiz\\BusinessObjects\\DTO\\OptionDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\DTO\\OptionDTO.cs",
+              "ToolTip": "D:\\ProjectC#\\Quiz\\BusinessObjects\\DTO\\OptionDTO.cs",
+              "RelativeToolTip": "BusinessObjects\\DTO\\OptionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:00:35.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\ProjectC#\\Quiz\\BusinessObjects\\Question.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Question.cs",
+              "ToolTip": "D:\\ProjectC#\\Quiz\\BusinessObjects\\Question.cs",
+              "RelativeToolTip": "BusinessObjects\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:26:31.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Option.cs",
+              "DocumentMoniker": "D:\\ProjectC#\\Quiz\\BusinessObjects\\Option.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Option.cs",
+              "ToolTip": "D:\\ProjectC#\\Quiz\\BusinessObjects\\Option.cs",
+              "RelativeToolTip": "BusinessObjects\\Option.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:26:25.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuizAnswer.cs",
+              "DocumentMoniker": "D:\\ProjectC#\\Quiz\\BusinessObjects\\QuizAnswer.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\QuizAnswer.cs",
+              "ToolTip": "D:\\ProjectC#\\Quiz\\BusinessObjects\\QuizAnswer.cs",
+              "RelativeToolTip": "BusinessObjects\\QuizAnswer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:26:23.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuestionsController.cs",
+              "DocumentMoniker": "D:\\ProjectC#\\Quiz\\Quiz\\Controllers\\QuestionsController.cs",
+              "RelativeDocumentMoniker": "Quiz\\Controllers\\QuestionsController.cs",
+              "ToolTip": "D:\\ProjectC#\\Quiz\\Quiz\\Controllers\\QuestionsController.cs",
+              "RelativeToolTip": "Quiz\\Controllers\\QuestionsController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwDcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:23:36.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QuestionRepository.cs",
+              "DocumentMoniker": "D:\\ProjectC#\\Quiz\\Repositories\\QuestionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\QuestionRepository.cs",
+              "ToolTip": "D:\\ProjectC#\\Quiz\\Repositories\\QuestionRepository.cs",
+              "RelativeToolTip": "Repositories\\QuestionRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:16:39.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IQuestionRepository.cs",
+              "DocumentMoniker": "D:\\ProjectC#\\Quiz\\Repositories\\IQuestionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IQuestionRepository.cs",
+              "ToolTip": "D:\\ProjectC#\\Quiz\\Repositories\\IQuestionRepository.cs",
+              "RelativeToolTip": "Repositories\\IQuestionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:16:00.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionDAO.cs",
+              "DocumentMoniker": "D:\\ProjectC#\\Quiz\\DataAccess\\QuestionDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\QuestionDAO.cs",
+              "ToolTip": "D:\\ProjectC#\\Quiz\\DataAccess\\QuestionDAO.cs",
+              "RelativeToolTip": "DataAccess\\QuestionDAO.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwGUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:15:10.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "QuizDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\ProjectC#\\Quiz\\BusinessObjects\\Migrations\\QuizDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Migrations\\QuizDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\ProjectC#\\Quiz\\BusinessObjects\\Migrations\\QuizDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BusinessObjects\\Migrations\\QuizDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:04:18.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250611150111_InitialCreate.cs",
+              "DocumentMoniker": "D:\\ProjectC#\\Quiz\\BusinessObjects\\Migrations\\20250611150111_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Migrations\\20250611150111_InitialCreate.cs",
+              "ToolTip": "D:\\ProjectC#\\Quiz\\BusinessObjects\\Migrations\\20250611150111_InitialCreate.cs",
+              "RelativeToolTip": "BusinessObjects\\Migrations\\20250611150111_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:01:17.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuizDbContext.cs",
+              "DocumentMoniker": "D:\\ProjectC#\\Quiz\\BusinessObjects\\QuizDbContext.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\QuizDbContext.cs",
+              "ToolTip": "D:\\ProjectC#\\Quiz\\BusinessObjects\\QuizDbContext.cs",
+              "RelativeToolTip": "BusinessObjects\\QuizDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAxwCEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:00:02.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Quiz.csproj",
+              "DocumentMoniker": "D:\\ProjectC#\\Quiz\\Quiz\\Quiz.csproj",
+              "RelativeDocumentMoniker": "Quiz\\Quiz.csproj",
+              "ToolTip": "D:\\ProjectC#\\Quiz\\Quiz\\Quiz.csproj",
+              "RelativeToolTip": "Quiz\\Quiz.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T14:35:28.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BusinessObjects.csproj",
+              "DocumentMoniker": "D:\\ProjectC#\\Quiz\\BusinessObjects\\BusinessObjects.csproj",
+              "RelativeDocumentMoniker": "BusinessObjects\\BusinessObjects.csproj",
+              "ToolTip": "D:\\ProjectC#\\Quiz\\BusinessObjects\\BusinessObjects.csproj",
+              "RelativeToolTip": "BusinessObjects\\BusinessObjects.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T14:35:05.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProjectC#\\Quiz\\Quiz\\Program.cs",
+              "RelativeDocumentMoniker": "Quiz\\Program.cs",
+              "ToolTip": "D:\\ProjectC#\\Quiz\\Quiz\\Program.cs",
+              "RelativeToolTip": "Quiz\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:25:37.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ProjectC#\\Quiz\\Quiz\\appsettings.json",
+              "RelativeDocumentMoniker": "Quiz\\appsettings.json",
+              "ToolTip": "D:\\ProjectC#\\Quiz\\Quiz\\appsettings.json",
+              "RelativeToolTip": "Quiz\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T14:09:48.649Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

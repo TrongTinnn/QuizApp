@@ -1,0 +1,17 @@
+D:\ProjectC#\Quiz\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\ProjectC#\Quiz\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\ProjectC#\Quiz\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\ProjectC#\Quiz\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+D:\ProjectC#\Quiz\Repositories\bin\Debug\net8.0\DataAccess.dll
+D:\ProjectC#\Quiz\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+D:\ProjectC#\Quiz\Repositories\bin\Debug\net8.0\DataAccess.pdb
+D:\ProjectC#\Quiz\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\ProjectC#\Quiz\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectC#\Quiz\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\ProjectC#\Quiz\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\ProjectC#\Quiz\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\ProjectC#\Quiz\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\ProjectC#\Quiz\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\ProjectC#\Quiz\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\ProjectC#\Quiz\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\ProjectC#\Quiz\Repositories\obj\Debug\net8.0\ref\Repositories.dll
